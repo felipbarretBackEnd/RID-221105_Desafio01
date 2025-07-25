@@ -22,4 +22,4 @@ Landing page desenvolvida como parte do Primeiro desafio.
     https://www.netlify.com/
 
 ## Como visualizar
-[Acesse aqui](https://seu-usuario.github.io/landing-page-arquitetura/) (link será gerado depois do passo 5).
+rid221105desafio01.netlify.app
