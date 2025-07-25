@@ -22,4 +22,5 @@ Landing page desenvolvida como parte do Primeiro desafio.
     https://www.netlify.com/
 
 ## Como visualizar
-rid221105desafio01.netlify.app
+- site NETLIFY: rid221105desafio01.netlify.app
+- link Planilha: https://docs.google.com/spreadsheets/d/1mV6ushqQTYNzwO_7du0g5ZGS0kpigcYesehy7kDadZM/edit?gid=0#gid=0
